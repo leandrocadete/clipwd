@@ -1,2 +1,2 @@
 # clipwd
-clitool to manager passwords
+Cli tool to manager passwords
